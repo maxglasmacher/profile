@@ -1,0 +1,58 @@
+body {
+  background-color: rgba(50,50,50,0.1)
+
+}
+
+div {
+  background-color: #D8DBE2;
+    width: 500;
+    margin: 50 auto;
+    text-align: center;
+    padding: 40 40;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.head {
+  font-family: 'Major Mono Display', monospace;
+}
+
+a {
+  font-family: 'Oswald', sans-serif;
+  text-decoration: none;
+  color: #373F51;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  display: inline-block;
+  padding: 20px;
+}
+
+a i {
+  font-size: 40px
+}
+
+td {
+  padding: 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #58A4B0
+}
+
+img {
+  border-radius: 10px
+}
+
+.round {
+  border-radius: 175px
+}
+
